@@ -1,0 +1,5 @@
+review_sentiment,reviews,average_rating
+Negative,6997,1.9
+Neutral,24132,3.0
+Positive,46168,4.32
+Unknown,233,3.75

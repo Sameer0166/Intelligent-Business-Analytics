@@ -1,0 +1,43 @@
+Intelligent-Business-Analytics/
+│
+├── data/
+│   ├── raw/
+│   │   ├── indian_ecommerce/
+│   │   └── ecommerce_sales_analytics/
+│   │
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   └── 04_ml_forecasting.ipynb
+│
+├── python/
+│   ├── data_cleaning.py
+│   ├── data_validation.py
+│   ├── analytics.py
+│   └── forecasting.py
+│
+├── sql/
+│   ├── schema.sql
+│   ├── data_quality.sql
+│   └── business_metrics.sql
+│
+├── n8n/
+│   ├── workflows/
+│   └── screenshots/
+│
+├── dashboard/
+│   └── powerbi/
+│
+├── documentation/
+│   ├── architecture/
+│   ├── data_dictionary/
+│   └── project_report/
+│
+├── tests/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore

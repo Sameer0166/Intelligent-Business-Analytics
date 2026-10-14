@@ -1,0 +1,10 @@
+table_name,original_rows,final_rows,duplicates_removed,remaining_null_values
+customers,25000,25000,0,2550
+products,550,550,0,4
+marketing_campaigns,151,151,0,0
+orders,100000,100000,0,0
+order_items,254331,254331,0,0
+payments,100000,100000,0,0
+shipments,89681,89681,0,4642
+returns,12075,12075,0,0
+customer_reviews,77530,77530,0,0
